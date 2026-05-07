@@ -1,0 +1,7 @@
+churnEnv/
+__pycache__/
+*.pyc
+.git/
+notebooks/
+data/raw/
+.env
