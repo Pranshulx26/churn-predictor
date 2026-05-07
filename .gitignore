@@ -2,6 +2,5 @@ churnEnv/
 __pycache__/
 *.pyc
 .DS_Store
-*.pkl
 data/raw/
 .env
